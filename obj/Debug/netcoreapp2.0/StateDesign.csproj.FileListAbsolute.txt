@@ -1,0 +1,9 @@
+C:\Users\richardha\source\repos\StateDesign\StateDesign\obj\Debug\netcoreapp2.0\StateDesign.csprojResolveAssemblyReference.cache
+C:\Users\richardha\source\repos\StateDesign\StateDesign\obj\Debug\netcoreapp2.0\StateDesign.csproj.CoreCompileInputs.cache
+C:\Users\richardha\source\repos\StateDesign\StateDesign\obj\Debug\netcoreapp2.0\StateDesign.AssemblyInfoInputs.cache
+C:\Users\richardha\source\repos\StateDesign\StateDesign\obj\Debug\netcoreapp2.0\StateDesign.AssemblyInfo.cs
+C:\Users\richardha\source\repos\StateDesign\StateDesign\bin\Debug\netcoreapp2.0\StateDesign.deps.json
+C:\Users\richardha\source\repos\StateDesign\StateDesign\bin\Debug\netcoreapp2.0\StateDesign.dll
+C:\Users\richardha\source\repos\StateDesign\StateDesign\bin\Debug\netcoreapp2.0\StateDesign.pdb
+C:\Users\richardha\source\repos\StateDesign\StateDesign\obj\Debug\netcoreapp2.0\StateDesign.dll
+C:\Users\richardha\source\repos\StateDesign\StateDesign\obj\Debug\netcoreapp2.0\StateDesign.pdb
